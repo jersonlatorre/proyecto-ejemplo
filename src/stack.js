@@ -7,5 +7,7 @@ class Stack {
     console.log(value)
   }
 
-  pop() {}
+  pop() {
+    console.log('Davier estuvo aqui')
+  }
 }
