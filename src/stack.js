@@ -1,6 +1,6 @@
 class Stack {
   constructor() {
-   
+   console.log('Hola')
   }
 
   push(value) {
