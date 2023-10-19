@@ -1,10 +1,16 @@
 class Stack {
   constructor() {
+   console.log('Hola')
+  
     this.value = value
     this.next = null
   }
 
-  push(value) {}
+  push(value) {
+    console.log(value)
+  }
 
-  pop() {}
+  pop() {
+    console.log('Davier estuvo aqui')
+  }
 }
