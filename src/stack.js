@@ -1,7 +1,11 @@
 class Stack {
-  constructor() {}
+  constructor() {
+   
+  }
 
-  push(value) {}
+  push(value) {
+    console.log(value)
+  }
 
   pop() {}
 }
