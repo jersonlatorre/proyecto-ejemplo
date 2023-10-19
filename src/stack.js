@@ -7,5 +7,7 @@ class Stack {
     
   push(value) {}
 
-  pop() {}
+  pop() {
+    console.log('Davier estuvo aqui')
+  }
 }
